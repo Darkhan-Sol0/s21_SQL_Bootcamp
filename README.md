@@ -1,2 +1,3 @@
 # SQL_Bootcamp_beginer
-## + python script for make folder
+- Выполнение будкемпа по sql
+-  + python script for make folder
